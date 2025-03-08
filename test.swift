@@ -1,0 +1,1 @@
+var highScore = 10
