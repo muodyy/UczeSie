@@ -1,1 +1,0 @@
-var highScore = 10
